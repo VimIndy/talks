@@ -9,6 +9,12 @@ See videos of the talks on our [YouTube channel][youtube].
 Have an idea or suggestion for a talk?
 [Open an issue][new-issue] in the tracker.
 
+## Past Talks
+
+| Date    | Title                | Speaker                      | Notes                  |
+| ---     | ---                  | ---                          | ---                    |
+| 2016.02 | Lightning Talks      |                              |                        |
+
 [//]: # ( Links ------------------------------------------------------ )
 [meetup]: https://www.meetup.com/vimindy
 [youtube]: https://www.youtube.com/channel/UCMBfbMrrgIj1-J4W1BWMAJQ
